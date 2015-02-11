@@ -1,0 +1,12 @@
+body{
+    background: -webkit-linear-gradient(top, left, red);
+    background: linear-gradient(top, left, red);
+}
+body{
+    font-size: 25px;
+}
+
+p{
+    color: red;
+}
+

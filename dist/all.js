@@ -1,0 +1,1 @@
+function func(){console.log("hello")}var aaaaaaa=22222,bbbbbbb=333;alert("hfffello!!!");

@@ -1,0 +1,12 @@
+{
+  "name": "gulp-bye",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-util": "^3.0.3",
+    "yargs": "^2.3.0"
+  },
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
